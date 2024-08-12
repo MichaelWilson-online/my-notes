@@ -32,3 +32,6 @@ However, it's important to remember that while technology can aid us in our spir
 
 As we embrace the potential of technology to deepen our spiritual habits, may we continually seek God's presence and guidance in all areas of our lives, trusting that He will lead us closer to Him each step of the way.
 
+[[Daily Bible Reading]]
+[[The Spiritual Value of the Bible]]
+[[The Historical Value of the Bible]]
