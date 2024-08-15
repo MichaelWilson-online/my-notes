@@ -4,7 +4,7 @@ draft: false
 tags:
   - 
 ---
-![[content/images/Bible3.png]]
+![[public/images/Bible3.png]]
 
 The Life-Changing Power of Daily Bible Reading and Study
 

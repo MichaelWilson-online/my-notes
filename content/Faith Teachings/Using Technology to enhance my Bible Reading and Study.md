@@ -1,4 +1,4 @@
-![[content/images/BibleStudywithTech.png]]
+![[public/images/BibleStudywithTech.png]]
 ## Embracing Technology to Deepen Spiritual Habits
 
 In today's fast-paced world, where every minute seems to be accounted for, finding time for spiritual practices like Bible reading, prayer, and devotionals can sometimes feel like a challenge. However, just as technology has become an integral part of our daily lives, it can also be a powerful tool to help us cultivate and sustain these important spiritual habits.

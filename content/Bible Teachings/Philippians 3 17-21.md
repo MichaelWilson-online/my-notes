@@ -3,7 +3,7 @@ title: Philippians 3 17-21
 draft: false
 tags:
 ---
-![[phil4.png]]
+![[public/images/phil4.png]]
 Philippians 3:17-21 is a powerful passage in the Bible that offers a message of hope, encouragement, and guidance for believers. In this passage, the Apostle Paul urges his readers to follow his example and warns them of those who live as enemies of the cross of Christ. Let's take a closer look at this scripture and explore its purpose, meaning, and application.
 
 ## Purpose 

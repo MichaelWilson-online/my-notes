@@ -4,7 +4,7 @@ draft: false
 tags:
   - 
 ---
-![[content/images/aith1.png]]
+![[public/images/aith1.png]]
 ## Strengthening Your Christian Faith: A Breakfast Devotional for Men
 
 ### Introduction:
