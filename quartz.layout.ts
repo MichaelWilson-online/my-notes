@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub:"https://github.com/MichaelWilson-online",
       Twitter:"https://x.com/antiduplicity",
-      Tech_Pastor_Solutions:"https://techpastorsolutions.com",
+      "Tech Pastor Solutions":"https://techpastorsolutions.com",
     },
   }),
 }
