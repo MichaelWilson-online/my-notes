@@ -3,7 +3,7 @@ title: My Retirement from the Church
 draft: false
 tags:
 ---
-![[retire 1.png|300]]
+![[retire1.png]]
 Dated April 16, 2023
 Dear Church Board Members,
 

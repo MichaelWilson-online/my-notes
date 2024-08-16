@@ -1,4 +1,4 @@
-
+![[thoughts.webp]]
 My name is Michael.  I started in tech as a computer programmer in the Air Force in 1981.  I answered God's call to become a pastor in 2005 and retired in 2023. I love playing around with computers, phones, tablets and watches.  I truly enjoy the products that Apple makes. 
 
 I have a Technology site called [The Tech Pastor](https://techpastorsolutions.com) where I help people with their tech.

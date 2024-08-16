@@ -3,7 +3,7 @@ title: Contentment from Philippians
 draft: false
 tags:
 ---
-![[phil4 1.png]]
+![[content/images/phil4.png]]
 Philippians 4:10-19 is a passage that teaches us the secret to true prosperity, which is contentment in Christ. In this passage, the apostle Paul shares with us his own personal experience of contentment, despite facing various challenges and hardships.
 
 ### Meaning: 

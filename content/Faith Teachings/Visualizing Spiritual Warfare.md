@@ -1,4 +1,4 @@
-![[Spiritual warfare 2.webp]]
+![[Spiritualwarfarepastor2.webp]]
 **Visualizing Spiritual Warfare: A Realistic and Detailed Perspective**
 
 **Introduction**

@@ -1,4 +1,4 @@
-![[Spiritual warfare 2.webp]]
+![[Spiritualwarfare2.webp]]
 **A Comprehensive Exploration of Spiritual Warfare from an Evangelical Perspective**
 
 **Introduction**

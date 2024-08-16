@@ -3,7 +3,7 @@ title: My Final Letter to my Church
 draft: false
 tags:
 ---
-![[retire3.png]]
+![[content/images/retire3.png]]
 In 1962, Eugene T. Wilson left the Navy and got a job at P.G.&E.  He was a lineman in Alameda and when he got transferred to Oakland, Gene and Jean Wilson took their two young sons and moved to San Leandro.  Steve Wilson walked into San Lorenzo Baptist Church, Michael was carried.  Gene, Jean, Steve and Michael soon joined SLZ BAP.  I was trained by some of the best Bible teachers who loved Jesus and who loved me.  When I was eight years of age, I accepted Jesus at Redwood Camp in Mt Hermon.  I was baptized by Pastor Jack Wyne.  I then went away to college, then the Air Force.  I came back to a series of jobs, found Janelle and married her.  
 
 I worked the next several years as a computer programmer.  in March of 2005 I was hired as the pastor of San Lorenzo Baptist Church.  I came to a church full of people that knew me my whole life, that had changed my diapers and who had taught me all the foundation truths of Scripture.  I was continuing a journey that had begun in 1962.

@@ -3,7 +3,7 @@ title: Isaiah 44
 draft: false
 tags:
 ---
-![[isaiah 1.png]]
+![[isaiah1.png]]
 # Title: 
 Unveiling the Profound Meaning and Enduring Significance of Isaiah 44 for Modern Christians
 

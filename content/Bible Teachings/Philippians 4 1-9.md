@@ -3,7 +3,7 @@ title: Philippians 4 1-9
 draft: false
 tags:
 ---
-![[phil-3.png]]
+![[phil3.png]]
 ## Introduction:
 
 Philippians 4:1-9 is a passage from the New Testament, which contains Paul’s exhortation to the Christians in Philippi to rejoice in the Lord, to let their gentleness be evident to all, and to not be anxious about anything. This passage offers guidance on how to live a joyful and peaceful life, despite the challenges and difficulties that one may face.

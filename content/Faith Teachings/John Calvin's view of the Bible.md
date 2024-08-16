@@ -3,7 +3,7 @@ title: John Calvin- view of the Bible
 draft: false
 tags:
 ---
-![[calvin 1.png]]John Calvin was a prominent theologian and religious reformer of the 16th century who played a key role in shaping Protestant theology. Central to Calvin's theology was his view of the Bible as the ultimate authority for Christian doctrine and practice. In this blog post, we will explore Calvin's view of the Bible, and examine how his ideas continue to shape modern Christian thought.
+![[calvin1.png]]John Calvin was a prominent theologian and religious reformer of the 16th century who played a key role in shaping Protestant theology. Central to Calvin's theology was his view of the Bible as the ultimate authority for Christian doctrine and practice. In this blog post, we will explore Calvin's view of the Bible, and examine how his ideas continue to shape modern Christian thought.
 
 For Calvin, the Bible was more than just a collection of religious texts - it was the very foundation of Christian faith. As he writes in his Institutes of the Christian Religion, "all the principles of the Christian religion...are comprehended in the Holy Scriptures." For Calvin, the Bible was the source of all knowledge of God, and the only true guide to Christian doctrine.
 

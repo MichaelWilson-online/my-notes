@@ -3,7 +3,7 @@ title: Philippians 4 20-23
 draft: false
 tags:
 ---
-![[phil 2 1.png]]
+![[phil2-11.png]]
 ## Introduction:
 
 Philippians 4:20-23 is the closing passage of the Apostle Paul's letter to the Philippians. In these final verses, Paul concludes his message by offering a benediction, expressing a theological truth, sending greetings, and extending blessings. This passage holds valuable insights regarding its purpose, meaning, and application for believers today.

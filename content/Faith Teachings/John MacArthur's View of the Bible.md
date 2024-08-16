@@ -3,7 +3,7 @@ title: John MacArthur's View of the Bible
 draft: false
 tags:
 ---
-![[john 1.png]]
+![[john1-1.png]]
 John MacArthur is a renowned pastor, author, and theologian who has had a profound impact on evangelical Christianity. His view of the Bible is grounded in the belief that it is the inspired, infallible, and inerrant word of God. MacArthur's perspective on the Bible is deeply rooted in his conservative evangelical theology, which emphasizes the authority and reliability of Scripture.
 
 MacArthur's approach to the Bible is reflected in his book, "Why Believe the Bible?" In it, he argues that the Bible is the true and trustworthy word of God, and that its teachings are both authoritative and relevant to our lives today. He writes:

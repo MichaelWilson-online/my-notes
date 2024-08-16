@@ -4,7 +4,7 @@ draft: false
 tags:
   - 
 ---
-![[public/images/citizen5.png]]
+![[content/images/citizen5.png]]
 The concept of being a citizen of heaven has deep theological and historical roots in Christian thought. Different Christian denominations and theologians have interpreted this idea in various ways over the centuries. Here, we will explore what it means to be a citizen of heaven from a historical perspective, focusing on the beliefs of Southern Baptists, the Reformers, and Charles Spurgeon, as well as its contemporary significance.
 
 1. **Southern Baptists**:
