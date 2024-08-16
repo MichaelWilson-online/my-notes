@@ -4,7 +4,7 @@ draft: false
 tags:
 - 
 ---
-![[content/images/tim1.png]]
+![[public/images/tim1.png]]
 Title: Faithful Endurance: Unpacking 2 Timothy 4:1-8
 
 ## Introduction:  
